@@ -7,7 +7,7 @@ Registration
 When the user chooses to Register
 
 ---> email/username should have "@" and followed by "."
-      eg:- sherlock@gmail.com
+      eg:- sherlock@gmail.com or 
             nothing@yahoo.in
 
 ---> it should not be like this 
